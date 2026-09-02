@@ -1,0 +1,9 @@
+ITEM.name = "Book and Pen"
+ITEM.description = "A journal with an orange, lambda-emblazed cover and a pen."
+ITEM.model = "models/halflife/gibs/book/book1.mdl"
+ITEM.category = "Papers"
+ITEM.rarity = "Uncommon"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 25
+ITEM.class = "clipboard"

@@ -1,0 +1,13 @@
+ITEM.name = "Security Baton"
+ITEM.description = "A standard issue baton used by security"
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/w_stunbaton.mdl"
+ITEM.class = "sh_stunstick"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "baton"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 1000

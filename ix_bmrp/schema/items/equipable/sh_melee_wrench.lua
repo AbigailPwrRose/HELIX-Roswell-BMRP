@@ -1,0 +1,13 @@
+ITEM.name = "Pipe Wrench"
+ITEM.description = "A large, red wrench. Commonly used for fixing pipes."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/opfor/items/w_wrench.mdl"
+ITEM.class = "tfa_nmrih_wrench"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 225

@@ -1,0 +1,13 @@
+ITEM.name = "Beretta M9 9mm Pistol"
+ITEM.description = "A pistol used by the police. Sleek and clean."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/svencoop/w_9mmhandgun.mdl"
+ITEM.class = "tfa_svencoopreimagined_handgun"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 250

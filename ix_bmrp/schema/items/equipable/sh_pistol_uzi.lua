@@ -1,0 +1,13 @@
+ITEM.name = "Uzi Machine Pistol"
+ITEM.description = "A powerful machine pistol. What the fuck do you need this for?"
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/vj_cofr/aom/weapons/w_uzi.mdl"
+ITEM.class = "tfa_svencoopreimagined_uzi"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 500

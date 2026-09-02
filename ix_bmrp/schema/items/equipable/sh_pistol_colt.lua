@@ -1,0 +1,13 @@
+ITEM.name = "Colt 1911"
+ITEM.description = "A police pistol. You can't move past it, can you?."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/svencoop/th/w_1911.mdl"
+ITEM.class = "tfa_svencoop_theyhunger_1911"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 300

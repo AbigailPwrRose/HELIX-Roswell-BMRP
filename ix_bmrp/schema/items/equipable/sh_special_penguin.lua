@@ -1,0 +1,13 @@
+ITEM.name = "Bomb Penguin"
+ITEM.description = "A volatile penguin with a grenade strapped to its back."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/opfor/items/w_penguin.mdl"
+ITEM.class = "weapon_hlof_penguin"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 10000

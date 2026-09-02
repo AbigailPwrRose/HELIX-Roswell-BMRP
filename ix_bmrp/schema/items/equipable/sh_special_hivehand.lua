@@ -1,0 +1,13 @@
+ITEM.name = "Hive Hand"
+ITEM.description = "A yucky and gross hand-held item that launches bee-like projectiles."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/halflife/gibs/bones/bloodyskull.mdl"
+ITEM.class = "weapon_hl1_hornetgun"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 2500

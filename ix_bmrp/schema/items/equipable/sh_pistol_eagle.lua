@@ -1,0 +1,13 @@
+ITEM.name = "Desert Eagle Pistol"
+ITEM.description = "A normal pistol."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/opfor/items/w_desert_eagle.mdl"
+ITEM.class = "tfa_svencoopreimagined_deagle"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 600

@@ -1,0 +1,10 @@
+ITEM.name = "Editable Data Card"
+ITEM.model = "models/props/hazardous/recorder.mdl"
+ITEM.category = "Papers"
+ITEM.rarity = "Uncommon"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.skin = 1
+ITEM.description = "A blue data card, one of many that are sold by Sidereal Plexus. These cards are blank, but can have their data editted."
+ITEM.price = 20
+ITEM.class = "clipboard"

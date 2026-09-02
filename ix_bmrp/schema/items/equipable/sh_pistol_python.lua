@@ -1,0 +1,13 @@
+ITEM.name = "Colt Python .357 Magnum"
+ITEM.description = "A sleek n' slick magnum revolver."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/svencoop/w_357.mdl"
+ITEM.class = "tfa_svencoopreimagined_revolver"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 350

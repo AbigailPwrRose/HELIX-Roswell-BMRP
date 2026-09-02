@@ -1,0 +1,10 @@
+ITEM.name = "Clipboard"
+ITEM.model = "models/player/hlew/extras/accessories/clipboard.mdl"
+ITEM.category = "Papers"
+ITEM.rarity = "Uncommon"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.skin = 2
+ITEM.description = "A conventional clipboard that can be written on."
+ITEM.price = 10
+ITEM.class = "clipboard"

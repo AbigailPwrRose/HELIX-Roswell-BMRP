@@ -1,0 +1,13 @@
+ITEM.name = "Barnacle"
+ITEM.description = "A gross hand-held barnacle thing-a-majig."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/opfor/props/toolbox.mdl"
+ITEM.class = "weapon_hlof_barnacle"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 1500

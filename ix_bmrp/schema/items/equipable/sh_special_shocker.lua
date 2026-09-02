@@ -1,0 +1,13 @@
+ITEM.name = "ShockRoach"
+ITEM.description = "A gross hand-held living gun."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/opfor/props/toolbox.mdl"
+ITEM.class = "weapon_hlof_shockrifle"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 1750

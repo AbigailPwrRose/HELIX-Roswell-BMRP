@@ -1,0 +1,10 @@
+ITEM.name = "Medical Kit"
+ITEM.model = "models/halflife/items/medkit.mdl"
+ITEM.description = "A large container which contains supplies to fully heal someone."
+ITEM.category = "Medical"
+ITEM.width = 2 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 2
+ITEM.healval = 200
+ITEM.grade = "Medical"
+ITEM.rarity = "Rare"
+ITEM.price = 250

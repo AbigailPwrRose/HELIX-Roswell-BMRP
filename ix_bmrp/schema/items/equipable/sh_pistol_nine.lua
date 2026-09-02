@@ -1,0 +1,13 @@
+ITEM.name = "9mm Pistol"
+ITEM.description = "A bog standard 9mm pistol."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/hl1/p_9mmhandgun.mdl"
+ITEM.class = "tfa_svencoop_halflife_glock"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 225

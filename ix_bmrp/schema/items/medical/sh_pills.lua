@@ -1,0 +1,12 @@
+ITEM.name = "Aiya-Aid General Pills"
+ITEM.model = "models/halflife/gibs/medical/packet1.mdl"
+ITEM.description = "A small container of pills and bandages that can be taken to remedy some wounds"
+ITEM.category = "Medical"
+ITEM.width = 1 -- Width and height refer to how many grid spaces this item takes up.
+ITEM.height = 1
+ITEM.healval = 50
+ITEM.stamval = 0
+ITEM.MaxUses = 2
+ITEM.grade = "Medical"
+ITEM.rarity = "Common"
+ITEM.price = 100

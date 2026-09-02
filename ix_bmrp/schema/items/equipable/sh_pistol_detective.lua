@@ -1,0 +1,13 @@
+ITEM.name = ".38 Detective Special"
+ITEM.description = "A noir esque revolver. Someones going to have a bad time."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/svencoop/th/w_th_38.mdl"
+ITEM.class = "tfa_svencoop_theyhunger_revolver"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 325

@@ -1,0 +1,13 @@
+ITEM.name = ".357 Magnum Revolver"
+ITEM.description = "A common revolver thats used by site security."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/w_357.mdl"
+ITEM.class = "tfa_svencoop_halflife_357"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 350

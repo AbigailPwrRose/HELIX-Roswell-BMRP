@@ -1,0 +1,13 @@
+ITEM.name = "Snark Pouch"
+ITEM.description = "A pouch full of snarks."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/cs16/items/w_backpack.mdl"
+ITEM.class = "weapon_hl1_snark"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 25000
