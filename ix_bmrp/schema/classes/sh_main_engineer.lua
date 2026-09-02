@@ -1,0 +1,5 @@
+CLASS.name = "Engineer"
+CLASS.faction = FACTION_MAINTENANCE
+CLASS.isDefault = true
+
+CLASS_MAINTENANCE_ENGINEER = CLASS.index

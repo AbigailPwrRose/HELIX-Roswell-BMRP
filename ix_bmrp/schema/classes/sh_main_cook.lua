@@ -1,0 +1,5 @@
+CLASS.name = "Cook"
+CLASS.faction = FACTION_MAINTENANCE
+CLASS.isDefault = true
+
+CLASS_MAINTENANCE_COOK = CLASS.index

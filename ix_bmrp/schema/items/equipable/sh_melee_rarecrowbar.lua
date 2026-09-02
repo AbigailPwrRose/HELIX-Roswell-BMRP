@@ -1,0 +1,13 @@
+ITEM.name = "Red Crowbar"
+ITEM.description = "A standard issue red crowbar. You feel like your about to have one hell of a day."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/w_crowbar.mdl"
+ITEM.class = "weapon_hl1_crowbar"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 300

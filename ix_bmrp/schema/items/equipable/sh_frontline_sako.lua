@@ -1,0 +1,13 @@
+ITEM.name = "Sako TRG"
+ITEM.Description = "A 7.62x51mm sniper popular in european law enforcement and military applications"
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_sako.mdl"
+ITEM.class = "tfa_flf_sako"
+ITEM.width = 4
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Mythic"
+ITEM.price = 1750

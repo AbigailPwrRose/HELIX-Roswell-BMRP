@@ -1,0 +1,13 @@
+ITEM.name = "Lead Pipe"
+ITEM.description = "A metal pipe. Sturdy and heavy."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/props_canal/mattpipe.mdl"
+ITEM.class = "tfa_nmrih_lpipe"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 50

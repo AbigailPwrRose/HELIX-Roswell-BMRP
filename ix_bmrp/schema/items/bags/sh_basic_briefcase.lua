@@ -1,0 +1,10 @@
+ITEM.name = "Standard Briefcase"
+ITEM.description = "A simple, happy briefcase."
+ITEM.category = "Bags"
+ITEM.model = "models/gman_briefcase.mdl"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.invWidth = 4
+ITEM.invHeight = 3
+ITEM.rarity = "Common"
+ITEM.price = 100

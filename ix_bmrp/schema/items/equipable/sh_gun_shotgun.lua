@@ -1,0 +1,13 @@
+ITEM.name = "Shotgun"
+ITEM.description = "A standard shotgun."
+ITEM.category = "Weapons - Shotguns"
+ITEM.model = "models/vj_hlr/weapons/w_shotgun.mdl"
+ITEM.class = "tfa_svencoop_halflife_shotgun"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 400

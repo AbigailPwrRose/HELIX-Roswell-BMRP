@@ -1,0 +1,13 @@
+ITEM.name = "RS202M2"
+ITEM.description = "A 12 gauge semi-automatic shotgun rarely used in private security applications."
+ITEM.category = "Weapons - Shotguns"
+ITEM.model = "models/weapons/tfa_flf/p_rs202m2.mdl"
+ITEM.class = "tfa_flf_rs202m2"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 2000

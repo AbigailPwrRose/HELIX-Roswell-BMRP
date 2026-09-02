@@ -1,0 +1,13 @@
+ITEM.name = "Fire Axe"
+ITEM.description = "A fire axe, used normally to break down doors."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_axe_fire.mdl"
+ITEM.class = "tfa_nmrih_fireaxe"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 300

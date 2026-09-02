@@ -1,0 +1,13 @@
+ITEM.name = "MP5"
+ITEM.description = "A submachine rifle."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/w_smg_mp5.mdl"
+ITEM.class = "tfa_svencoop_halflife_smg"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 500

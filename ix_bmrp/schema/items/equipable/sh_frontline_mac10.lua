@@ -1,0 +1,13 @@
+ITEM.name ="MAC-10"
+ITEM.description = "A .45 submachine gun popular in action media and criminal organizations."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/w_smg_mac10.mdl"
+ITEM.class = "tfa_flf_mac10"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 500

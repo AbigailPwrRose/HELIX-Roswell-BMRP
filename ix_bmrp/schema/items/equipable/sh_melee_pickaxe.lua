@@ -1,0 +1,13 @@
+ITEM.name = "Pickaxe"
+ITEM.description = "A standard issue pickaxe. Can be used for breaking stone."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_pickaxe.mdl"
+ITEM.class = "tfa_nmrih_pickaxe"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 150

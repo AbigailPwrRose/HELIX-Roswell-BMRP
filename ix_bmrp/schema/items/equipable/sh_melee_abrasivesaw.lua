@@ -1,0 +1,13 @@
+ITEM.name = "Abrasive Saw"
+ITEM.description = "A type of saw commonly used for wood working. Looks sharp!"
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_abrasivesaw.mdl"
+ITEM.class = "tfa_nmrih_asaw"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 600

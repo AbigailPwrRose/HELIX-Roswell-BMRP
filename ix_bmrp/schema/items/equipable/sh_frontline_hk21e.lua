@@ -1,0 +1,13 @@
+ITEM.name ="HK21E"
+ITEM.description = "A 7.62x51mm machine gun popular in european military applications."
+ITEM.category = "Weapons - Special"
+ITEM.model = "models/weapons/tfa_flf/p_hk21.mdl"
+ITEM.class = "tfa_flf_hk21"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 0

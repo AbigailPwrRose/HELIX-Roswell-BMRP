@@ -1,0 +1,13 @@
+ITEM.name = "Grenade"
+ITEM.description = "A standard fragmentation grenade."
+ITEM.category = "Bombs"
+ITEM.model = "models/hl1/p_grenade.mdl"
+ITEM.class = "weapon_hl1_handgrenade"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = true
+ITEM.weaponCategory = "explosive"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 500

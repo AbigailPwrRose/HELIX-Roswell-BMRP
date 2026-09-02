@@ -1,0 +1,13 @@
+ITEM.name = "AK-105"
+ITEM.description = "A 5.45x39mm carbine popular in slavic military and private security applications."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_ak105.mdl"
+ITEM.class = "tfa_flf_ak105"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 1000

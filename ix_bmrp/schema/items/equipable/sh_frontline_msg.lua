@@ -1,0 +1,13 @@
+ITEM.name = "MSG-90"
+ITEM.description = "A 7.62x51mm rifle popular in european law enforcement and military applications"
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_msg90.mdl"
+ITEM.class  ="tfa_flf_msg90"
+ITEM.width = 4
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 2000

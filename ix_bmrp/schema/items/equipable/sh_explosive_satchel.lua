@@ -1,0 +1,13 @@
+ITEM.name = "Satchel Explosive"
+ITEM.description = "A satchel full of explosive materials."
+ITEM.category = "Bombs"
+ITEM.model = "models/cs16/items/w_backpack.mdl"
+ITEM.class = "weapon_hlof_satchel"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = true
+ITEM.weaponCategory = "explosive"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 1250

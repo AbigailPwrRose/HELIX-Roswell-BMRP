@@ -1,0 +1,13 @@
+ITEM.name = "Claw Hammer"
+ITEM.description = "A simpler tool from a more civil time."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/props_questionableethics/autopsy_hammer.mdl"
+ITEM.class = "tfa_nmrih_bcd"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 200

@@ -1,0 +1,13 @@
+ITEM.name = "Machete"
+ITEM.description = "Sharp. Quick. Lethal. These blades once cut vine and leaf."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_machete.mdl"
+ITEM.class = "tfa_nmrih_machete"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 200

@@ -1,0 +1,13 @@
+ITEM.name = "Tommygun"
+ITEM.description = "A submachine gun that makes you feel a craving for pizza and garlic."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/svencoop/th/w_tommygun.mdl"
+ITEM.class = "tfa_svencoop_theyhunger_tommygun"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 750

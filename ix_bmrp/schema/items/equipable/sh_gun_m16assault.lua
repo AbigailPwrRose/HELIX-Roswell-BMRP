@@ -1,0 +1,13 @@
+ITEM.name = "M16 Assault Rifle"
+ITEM.description = "An assault rifle."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/vj_cofr/cof/weapons/w_m16.mdl"
+ITEM.class = "tfa_svencoopreimagined_m16"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 1500

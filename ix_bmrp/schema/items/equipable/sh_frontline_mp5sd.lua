@@ -1,0 +1,13 @@
+ITEM.name ="MP5SD"
+ITEM.description = "A popular 9mm submachine gun used in european law enforcement and private security applications. It has a strange blue logo on the grip, likely the manufacturer."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_mp5sd.mdl"
+ITEM.class = "tfa_flf_mp5sd"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Sidereal"
+ITEM.price = 800

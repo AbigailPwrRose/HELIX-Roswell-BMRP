@@ -1,0 +1,13 @@
+ITEM.name = "Cleaver"
+ITEM.description = "A meat cleaver, used for cutting meat."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_cleaver.mdl"
+ITEM.class = "tfa_nmrih_cleaver"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 200

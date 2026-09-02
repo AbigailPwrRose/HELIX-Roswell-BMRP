@@ -1,0 +1,13 @@
+ITEM.name = "Beretta 92F"
+ITEM.description = "A 9mm handgun popular among security and police. It has a strange blue logo on the grip, likely the manufacturer."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/tfa_flf/p_beretta92f.mdl"
+ITEM.class = "tfa_flf_beretta"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Sidereal"
+ITEM.price = 500

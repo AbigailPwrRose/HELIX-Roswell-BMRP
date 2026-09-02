@@ -1,0 +1,13 @@
+ITEM.name = "Spade"
+ITEM.description = "A common spade. Nothing fancy, just a bog standard tool for digging holes."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/w_spade.mdl"
+ITEM.class = "tfa_nmrih_spade"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 200

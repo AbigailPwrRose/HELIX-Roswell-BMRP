@@ -1,0 +1,13 @@
+ITEM.name = "Franchi-12"
+ITEM.description = "A 12 gauge pump-action shotgun popular in global private security applications."
+ITEM.category = "Weapons - Shotguns"
+ITEM.model = "models/weapons/tfa_flf/p_spas12.mdl"
+ITEM.class = "tfa_flf_spas12"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 1500

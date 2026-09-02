@@ -1,0 +1,13 @@
+ITEM.name ="MP5A2"
+ITEM.description = "A 9mm submachine gun popular in global law enforcement and private security applications."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_mp5a2.mdl"
+ITEM.class = "tfa_flf_mp5a2"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 750

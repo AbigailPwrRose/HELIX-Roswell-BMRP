@@ -1,0 +1,13 @@
+ITEM.name = "Fubar"
+ITEM.description = "FUUUBARRRR!!!!... Ill be so for real, I don't know what a Fubar is for"
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_fubar.mdl"
+ITEM.class = "tfa_nmrih_fubar"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 500

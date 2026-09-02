@@ -1,0 +1,13 @@
+ITEM.name = "Colt AR-15"
+ITEM.description = "An assault rifle."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/svencoop/th/w_th_m16.mdl"
+ITEM.class = "tfa_svencoop_theyhunger_m16"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 1000

@@ -1,0 +1,13 @@
+ITEM.name = "AK5"
+ITEM.description = "A 5.56x45mm carbine popular in european military and private security applications."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_ak5.mdl"
+ITEM.class = "tfa_flf_ak5"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 1500

@@ -1,0 +1,13 @@
+ITEM.name = "Crowbar"
+ITEM.description = "A standard issue blue crowbar. Rumor has it that\nsomeone used a crowbar similar to this during the Black Mesa Incident."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_crowbar.mdl"
+ITEM.class = "tfa_nmrih_crowbar"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 150

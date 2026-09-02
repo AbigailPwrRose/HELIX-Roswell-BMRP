@@ -1,0 +1,13 @@
+ITEM.name = "Sledge Hammer"
+ITEM.description = "A heavy-duty sledge hammer. Can probably be used to break down some rocks and barriers."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_sledge.mdl"
+ITEM.class = "tfa_nmrih_sledge"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 500

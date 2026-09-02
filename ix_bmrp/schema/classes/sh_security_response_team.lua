@@ -1,0 +1,13 @@
+CLASS.name = "Security Response Team (SRT)"
+CLASS.faction = FACTION_SECURITY
+CLASS.isDefault = false
+
+function CLASS:CanSwitchTo(client)
+  local Can = false
+  local chara = client:GetCharacter()
+  local rank = chara:GetRank()
+  if rank > 1 then Can = true end
+  return Can and client:IsAdmin() -- only admins allowed in this class!
+end
+
+CLASS_SECURITY_SRT = CLASS.index

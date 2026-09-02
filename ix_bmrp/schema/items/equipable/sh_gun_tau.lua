@@ -1,0 +1,13 @@
+ITEM.name = "Expiremental Tau Cannon"
+ITEM.description = "An expiremental weapon that fires consentrated beams of energy."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/hlwe1507/w_taucannon.mdl"
+ITEM.class = "weapon_hl1_gauss"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 2000

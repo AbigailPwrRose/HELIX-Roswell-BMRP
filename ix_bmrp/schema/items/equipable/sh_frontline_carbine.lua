@@ -1,0 +1,13 @@
+ITEM.name = "M4 Carbine"
+ITEM.description = "A 5.56x45mm carbine popular in domestic military and private security applications"
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/tfa_flf/p_m4.mdl"
+ITEM.class = "tfa_flf_m4"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 1300

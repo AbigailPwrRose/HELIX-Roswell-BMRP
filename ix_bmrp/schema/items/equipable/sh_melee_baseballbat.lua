@@ -1,0 +1,13 @@
+ITEM.name = "Baseball Bat"
+ITEM.description = "Before and after the end of the world, baseball is still played."
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_bat_metal.mdl"
+ITEM.class = "tfa_nmrih_bat"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Common"
+ITEM.price = 1500

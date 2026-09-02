@@ -1,0 +1,13 @@
+ITEM.name = "USP"
+ITEM.description = "A .45 handgun popular in military and private security applications."
+ITEM.category = "Weapons - Pistol"
+ITEM.model = "models/weapons/tfa_flf/p_usp.mdl"
+ITEM.class = "tfa_flf_usp"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "pistol"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 700

@@ -1,0 +1,13 @@
+ITEM.name = "SLAM Mining Explosive"
+ITEM.description = "A type of explosive that can be placed. Typically used for mining and clearing debris."
+ITEM.category = "Bombs"
+ITEM.model = "models/props_marines/triplaser.mdl"
+ITEM.class = "weapon_hl1_tripmine"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = true
+ITEM.weaponCategory = "explosive"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 750

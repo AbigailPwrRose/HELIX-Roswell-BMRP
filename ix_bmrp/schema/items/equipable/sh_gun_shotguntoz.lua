@@ -1,0 +1,19 @@
+ITEM.name = "TOZ 34"
+ITEM.description = "A fancy, and old, shotgun."
+ITEM.category = "Weapons - Shotguns"
+ITEM.model = "models/weapons/w_annabelle.mdl"
+ITEM.class = "tfa_svencoop_theyhunger_dbarrel"
+ITEM.forceRender = true
+ITEM.iconCam = {
+	pos = Vector(10.92, 732.17, 12.99),
+	ang = Angle(1.05, 269.02, 0),
+	fov = 4.48
+}
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 600

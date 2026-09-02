@@ -1,0 +1,13 @@
+ITEM.name = "RPG"
+ITEM.description = "A powerful rocket propelled grenade launcher."
+ITEM.category = "Bombs"
+ITEM.model = "models/vj_hlr/weapons/w_rpg.mdl"
+ITEM.class = "weapon_hlof_rpg"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "special"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 2000

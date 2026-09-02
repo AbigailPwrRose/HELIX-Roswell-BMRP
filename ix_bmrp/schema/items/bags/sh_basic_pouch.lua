@@ -1,0 +1,10 @@
+ITEM.name = "Small Pouch"
+ITEM.description = "A simple hip-mounted pouch some items can be stored in."
+ITEM.category = "Bags"
+ITEM.model = "models/cs16/items/w_backpack.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.invWidth = 2
+ITEM.invHeight = 2
+ITEM.rarity = "Common"
+ITEM.price = 50

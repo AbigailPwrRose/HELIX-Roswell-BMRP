@@ -1,0 +1,13 @@
+ITEM.name ="UMP45"
+ITEM.description = "A .45 submachine gun popular in european law enforcement and private security applications."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/w_smg_ump45.mdl"
+ITEM.class = "tfa_flf_ump45"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 900

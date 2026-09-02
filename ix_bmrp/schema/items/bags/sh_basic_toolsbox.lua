@@ -1,0 +1,10 @@
+ITEM.name = "Red Toolbox"
+ITEM.description = "A simple toolbox where tools can be stored."
+ITEM.category = "Bags"
+ITEM.model = "models/opfor/props/toolbox.mdl"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.invWidth = 4
+ITEM.invHeight = 3
+ITEM.rarity = "Common"
+ITEM.price = 70

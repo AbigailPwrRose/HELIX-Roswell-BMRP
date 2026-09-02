@@ -1,0 +1,13 @@
+ITEM.name = "Chainsaw"
+ITEM.description = "A gas-powered chainsaw! Hell yeah!"
+ITEM.category = "Weapons - Melee"
+ITEM.model = "models/weapons/tfa_nmrih/w_me_chainsaw.mdl"
+ITEM.class = "tfa_nmrih_chainsaw"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "melle"
+ITEM.useSound = "player/shove_01.wav"
+ITEM.rarity = "Common"
+ITEM.price = 500

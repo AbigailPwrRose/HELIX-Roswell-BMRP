@@ -1,0 +1,10 @@
+ITEM.name = "Large Rucksack"
+ITEM.description = "TBD"
+ITEM.category = "Bags"
+ITEM.model = "models/czeror/models/soccer_bag.mdl"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.invWidth = 6
+ITEM.invHeight = 4
+ITEM.rarity = "Common"
+ITEM.price = 250

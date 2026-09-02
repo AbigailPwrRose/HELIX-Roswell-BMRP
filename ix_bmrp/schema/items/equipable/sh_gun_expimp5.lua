@@ -1,0 +1,13 @@
+ITEM.name = "Expiremental MP5"
+ITEM.description = "An expiremental submachine rifle."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/w_smg_mp5.mdl"
+ITEM.class = "tfa_svencoop_mp550mag"
+ITEM.width = 3
+ITEM.height = 2
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Rare"
+ITEM.price = 900

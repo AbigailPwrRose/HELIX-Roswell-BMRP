@@ -1,0 +1,13 @@
+ITEM.name = "Survey Standard Crossbow"
+ITEM.description = "A tranq equipped crossbow."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/weapons/w_crossbow.mdl"
+ITEM.class = "tfa_svencoop_halflife_crossbow"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price =1000

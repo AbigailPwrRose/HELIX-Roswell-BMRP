@@ -1,0 +1,13 @@
+ITEM.name = "M40a1 Sniper Rifle"
+ITEM.description = "A prescision rifle."
+ITEM.category = "Weapons - Guns"
+ITEM.model = "models/vj_hlr/weapons/w_m40a1.mdl"
+ITEM.class = "tfa_svencoop_sniper"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "main"
+ITEM.useSound = "items/ammo_pickup.wav"
+ITEM.rarity = "Uncommon"
+ITEM.price = 900
