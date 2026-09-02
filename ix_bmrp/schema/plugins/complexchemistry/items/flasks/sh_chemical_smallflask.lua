@@ -1,0 +1,9 @@
+ITEM.name = "100ml Flask"
+ITEM.description = "Replace"
+ITEM.category = "Tools"
+ITEM.rarity = "Uncommon"
+ITEM.model = "models/props_lab/beaker01b.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.IsFlask = true
+ITEM.FlaskMax = 100
